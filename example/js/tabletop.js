@@ -1,3 +1,12 @@
+/*
+ * Tabletop.js
+ * https://github.com/jsoma/tabletop
+ *
+ * Copyright (c) 2012-2013 Jonathan Soma
+ * Licensed: https://raw.github.com/jsoma/tabletop/master/LICENSE
+ */
+ 
+ 
 (function(global) {
 
   if (!Array.prototype.indexOf) {
