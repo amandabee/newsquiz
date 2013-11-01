@@ -1,6 +1,7 @@
 /*
  * GDoc-Powered-Quiz
  * https://github.com/motherjones/GDoc-Powered-Quiz
+ * https://github.com/amandabee/newsquiz
  *
  * Copyright (c) 2012 Ben Breedlove
  * Licensed under the MIT, GPL licenses.
