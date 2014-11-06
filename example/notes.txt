@@ -1,8 +1,0 @@
-
- 20         $(document).ready(function() {
- 21                 Tabletop.init({
- 22                         key: '0AqaPuVjW5_0OdEJpRVV2UVBndThRaHNyM1NGbk5ZblE',
- 23                         callback: function(data, tabletop) { console.log(JSON.stringify(data)) }, simpleSheet: true } 
- 24                 )}
- 25         )
-
