@@ -1,0 +1,66 @@
+[
+  {
+    "questiontitle": "Which borough is New York's wealthiest? ",
+    "right": "STATEN ISLAND",
+    "righttext": "You got it! All three Staten Island neighborhoods reported median income of more than $55K.",
+    "wrong": "MANHATTAN",
+    "wrongtext": "Nope! The wealthiest neighborhoods in Manhattan reported median incomes of $122K, while the poorest had $31.5K.",
+    "wrong1": "BROOKLYN",
+    "wrong1text": "Nope! Brooklyn's wealthiest neighborhood had median income of $89K, but the poorest brought in about $26.2K.",
+    "rowNumber": 1
+  },
+  {
+    "questiontitle": "Which borough is the most diverse in the city year after year?",
+    "right": "QUEENS",
+    "righttext": "Yes! Queens has the highest percentage of foreign born residents in the city, as well as the most diverse array of countries of origin ",
+    "wrong": "MANHATTAN",
+    "wrongtext": "Wrong! ",
+    "wrong1": "BROOKLYN",
+    "wrong1text": "Close! Brooklyn comes in second.",
+    "wrong2": "STATEN ISLAND",
+    "wrong2text": "No. What? No.",
+    "rowNumber": 2
+  },
+  {
+    "questiontitle": "Which borough saw the highest drop in crime?",
+    "right": "MANHATTAN",
+    "righttext": "Crime in Manhattan is down 81.5% since 1990, though it has recently suffered an increase of .6% in 2013.",
+    "wrong": "BROOKLYN",
+    "wrongtext": "Sorry, crime in Brooklyn has only dropped 77%.",
+    "wrong1": "QUEENS",
+    "wrong1text": "Queens has seen an 80% drop in crime since 1990, the second-largest in the city.",
+    "rowNumber": 3
+  },
+  {
+    "questiontitle": "Which borough is the poorest?",
+    "right": "BRONX",
+    "righttext": "Sadly, yes. The Bronx has the city's highest poverty rate 30%.",
+    "wrong": "QUEENS",
+    "wrongtext": "Nope! Queens' median household income of $54,625 was third among the five boroughs in 2011.",
+    "wrong1": "BROOKLYN",
+    "wrong1text": "Close, but no cigar! More than a quarter of Brooklyn households earned less than $20,000 in 2011.",
+    "rowNumber": 4
+  },
+  {
+    "questiontitle": "What is the healthiest industry in the Bronx?",
+    "right": "HEALTH CARE AND SOCIAL ASSISTANCE",
+    "righttext": "Last year, an average of 83,000 Bronx employees earned $3.9 billion through health care and social-assistance jobs. The borough is home to more than a dozen hospitals, including Montefiore Medical Center.",
+    "wrong": "GOVERNMENT",
+    "wrongtext": "No, only 14% of jobs in the Bronx come from government.",
+    "wrong1": "EDUCATION",
+    "wrong1text": "No, only 7.3% of jobs in the Bronx come from educational services.",
+    "wrong2": "RETAIL",
+    "wrong2text": "No, only 6.7% of jobs in the Bronx come from retail.",
+    "wrong3": "CONSTRUCTION",
+    "wrong3text": "No, only 5.3% of jobs in the Bronx come from construction.",
+    "rowNumber": 5
+  },
+  {
+    "questiontitle": "Which spreadsheet is powering this game?",
+    "right": "PARKS QUIZ",
+    "righttext": "That's right! This game is coming from the \"Parks Quiz\" spreadsheet. ",
+    "wrong": "MY COPY OF THE DEMO",
+    "wrongtext": "Not so. You know how I know? Because this question isn't in your copy of the demo!",
+    "rowNumber": 6
+  }
+]
